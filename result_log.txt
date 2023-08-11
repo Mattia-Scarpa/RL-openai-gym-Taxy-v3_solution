@@ -1,0 +1,106 @@
+Test 0:
+Episode 20000/20000 || Best average reward 8.914
+
+Test 1:
+Episode 20000/20000 || Best average reward 8.76
+
+Test 2:
+Episode 20000/20000 || Best average reward 8.98
+
+Test 3:
+Episode 20000/20000 || Best average reward 8.77
+
+Test 4:
+Episode 20000/20000 || Best average reward 8.85
+
+Test 5:
+Episode 20000/20000 || Best average reward 8.85
+
+Test 6:
+Episode 20000/20000 || Best average reward 8.81
+
+Test 7:
+Episode 20000/20000 || Best average reward 8.88
+
+Test 8:
+Episode 20000/20000 || Best average reward 8.81
+
+Test 9:
+Episode 20000/20000 || Best average reward 8.73
+
+Test 10:
+Episode 20000/20000 || Best average reward 8.77
+
+Test 11:
+Episode 20000/20000 || Best average reward 8.96
+
+Test 12:
+Episode 20000/20000 || Best average reward 8.73
+
+Test 13:
+Episode 20000/20000 || Best average reward 8.88
+
+Test 14:
+Episode 20000/20000 || Best average reward 8.67
+
+Test 15:
+Episode 20000/20000 || Best average reward 8.85
+
+Test 16:
+Episode 20000/20000 || Best average reward 8.75
+
+Test 17:
+Episode 20000/20000 || Best average reward 8.95
+
+Test 18:
+Episode 20000/20000 || Best average reward 8.81
+
+Test 19:
+Episode 20000/20000 || Best average reward 8.88
+
+Test 20:
+Episode 20000/20000 || Best average reward 9.07
+
+Test 21:
+Episode 20000/20000 || Best average reward 8.69
+
+Test 22:
+Episode 20000/20000 || Best average reward 8.81
+
+Test 23:
+Episode 20000/20000 || Best average reward 8.95
+
+Test 24:
+Episode 20000/20000 || Best average reward 8.92
+
+Test 25:
+Episode 20000/20000 || Best average reward 8.91
+
+Test 26:
+Episode 20000/20000 || Best average reward 8.74
+
+Test 27:
+Episode 20000/20000 || Best average reward 8.82
+
+Test 28:
+Episode 20000/20000 || Best average reward 8.76
+
+Test 29:
+Episode 20000/20000 || Best average reward 8.72
+
+Test 30:
+Episode 20000/20000 || Best average reward 8.94
+
+Test 31:
+Episode 20000/20000 || Best average reward 8.84
+
+Test 32:
+Episode 20000/20000 || Best average reward 8.77
+
+Test 33:
+Episode 20000/20000 || Best average reward 8.82
+
+Test 34:
+Episode 20000/20000 || Best average reward 8.85
+
+Overall average rewards over 35 test: 8.832571428571429
